@@ -16,10 +16,10 @@ The project was trained on an ec2 server on AWS with about a dataset of 2500 ima
 Model on 2 different scenarios:
 
 **1-Perfect Car**
-https://github.com/psifrous/Zapsure/blob/master/outputs/1.PNG
+![Perfect Car](https://github.com/psifrous/Zapsure/blob/master/outputs/1.PNG)
 
 **2-Damaged Car**
-https://github.com/psifrous/Zapsure/blob/master/outputs/2.PNG
+![Damaged Car](https://github.com/psifrous/Zapsure/blob/master/outputs/2.PNG)
 
 🔥This project was made for HaXplore hackathon held at IIT BHU
 
