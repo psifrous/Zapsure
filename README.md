@@ -21,5 +21,11 @@ Model on 3 different scenarios:
 
 ![Moderately Damaged Car](https://github.com/psifrous/Zapsure/blob/master/outputs/4.PNG)
 
+**Current Opportunity 🚀**
+There has not been a major disruption in the insurance industry since decades and has been a major money hauling industry, hence to bring disruption Zapsure will help the citizens to be connected to a common source to claim their car insurance.
+
+**Future Opportunity ⏲️**
+As technology moves ahead, so will we Zapsure will be soon including Health Insurance where in users could give in their XRAY scans, LAB reports etc. and that will assess the health claim in according to the database given by the respective hospital.
+
 🔥This project was made for HaXplore hackathon held at IIT BHU
 
