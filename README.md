@@ -31,5 +31,5 @@ As technology moves ahead, so will we Zapsure will be soon including Health Insu
 
 
 
-🔥This project was made for HaXplore hackathon held at IIT BHU
+🔥
 
